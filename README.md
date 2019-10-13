@@ -1,5 +1,8 @@
 # Sudoku
 
+---
+⚠️ DO NOT SUBMIT PRS TO THIS REPO ⚠️
+
 ## Task
 
 Implement function `solveSudoku(matrix)`, that for given incomplete matrix will return solved sudoku. `0` means `no value`
