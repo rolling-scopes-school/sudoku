@@ -4,7 +4,7 @@
   "description": "Sudoku",
   "main": "test.js",
   "scripts": {
-    "test": "mocha test.js"
+    "test": "mocha test.js --timeout 5000"
   },
   "repository": {
     "type": "git",
