@@ -42,7 +42,7 @@ Write your code in `src/index.js`
 3. Clone your newly created repo: https://github.com/<%your_github_username%>/sudoku/  
 4. Go to folder `sudoku`  
 5. To install all dependencies use [`npm install`](https://docs.npmjs.com/cli/install)  
-6. Run `npm test` in command line or you can run tests in browser with `npm start` and open http://localhost:8080
+6. Run `npm test` in command line
 7. You will see the number of passing and failing tests. 100% of passing tests is equal to 100p in score  
 
 ---
